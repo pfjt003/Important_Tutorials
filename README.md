@@ -1,4 +1,4 @@
-# Important_Tutorials
+# Important_Tutorials (sahiravandewouw)
 Some tutorials that Ayan thinks might help people to learn about fMRI analysis
 
 # Cluster Architecture
